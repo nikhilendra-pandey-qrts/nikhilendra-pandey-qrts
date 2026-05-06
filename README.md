@@ -2,14 +2,14 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer – SDET** at Direct Line Group, based in **London, UK** . With close to **09 years of experience** in **test automation, software development, and quality assurance**, I specialize in building scalable, efficient, and reliable test frameworks that ensure software quality and performance.
+I'm a **Engineer-4** at Direct Line Group, based in **London, UK** . With close to **10 years of experience** in **test automation, software development, and quality assurance**, I specialize in building scalable, efficient, and reliable test frameworks that ensure software quality and performance.
 
 ## 🔧 Tech Stack & Skills
-- **Languages:** Java, JavaScript, Python
-- **Test Automation:** Serenity BDD, Selenium, Cucumber, JUnit, TestNG
-- **API Testing:** REST Assured, Postman
+- **Languages:** Java, JavaScript, Python, Typescript
+- **Test Automation:** Serenity BDD, Selenium, Cucumber, JUnit, TestNG, etc.,
+- **API Testing:** REST Assured, Postman, Jest, Supertest, Axios, SOAPUI, ReadyAPI, Swagger, etc.,
 - **Cloud & DevOps:** AWS, CI/CD (Jenkins, GitHub Actions, Azure DevOps)
-- **Performance & Security Testing:** JMeter, OWASP ZAP
+- **Performance & Security Testing:** JMeter, OWASP ZAP, Qualys
 - **Accessibility Testing:** axe-core, Wave
 - **Version Control & Collaboration:** Git, GitHub, Bitbucket
 
